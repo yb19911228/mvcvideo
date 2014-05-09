@@ -66,7 +66,7 @@ text-decoration:none;
 <div id="topNavWrapper">
 <div id="topNav">
 			<div id="topmenuleft" >
-			<a style="color:#666666">媒体内容分享平台</a>   
+			<a style="color:#666666">Hadoop分享平台</a>   
 				</div>
 			<div id="topmenumiddle">
 				<form name="input" action="http://127.0.0.1/mvc1/controller/controller_search.php" method="get">
